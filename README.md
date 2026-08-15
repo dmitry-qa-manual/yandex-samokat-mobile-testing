@@ -78,3 +78,8 @@ During testing, several defects were identified and documented, including:
 ## 🎯 Result
 
 The project provided practical experience in testing Android applications, designing and executing test cases, investigating application behavior under different conditions, and documenting defects.
+
+## 📂 Project Materials
+
+- [Test Cases](test-cases/mobile-test-cases.md)
+- [Bug Reports](bug-reports/README.md)
